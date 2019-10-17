@@ -1,5 +1,7 @@
-# IntercontinentalCuisine
+# Intercontinental Cuisine
+Food delivery system with three separate android applications which allow restaurant owners, freelance delivery drivers, and at-home customers to facilitate food delivery to restaurant patrons.
 
+## Getting started
 You must link each app to the firebase database.
 1. Sign in to google account and go to https://console.firebase.google.com/ and click add project.
 2. Here you will create a name for your project and click create project.
@@ -20,3 +22,11 @@ You must link each app to the firebase database.
 The path for the google-services.json should be HH/app/google-services.json, HHStore/app/google-services.json, and HHDriver/app/google-services.json
 
 Demo video at https://www.youtube.com/watch?v=POSlJEfLIOo&t=5s
+
+## Built With
+Android 
+gradle 
+Firebase
+
+## Authors
+James Craft, Kyle Drennen, and Glenn Harper

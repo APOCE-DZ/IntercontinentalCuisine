@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "95106988368",
+    "firebase_url": "https://test-db-f43b9.firebaseio.com",
+    "project_id": "test-db-f43b9",
+    "storage_bucket": "test-db-f43b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95106988368:android:2605b9791b9c8d15",
+        "android_client_info": {
+          "package_name": "com.example.glenn.ic_integrationtesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95106988368-hofo4pde04tpabc7tstpr0mntgba3jr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmd0v2pUeyjB1aaDw128qe2vDi9e_mHOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95106988368-hofo4pde04tpabc7tstpr0mntgba3jr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95106988368:android:8285e3f334fb7c8b",
+        "android_client_info": {
+          "package_name": "hyderabadhouse.hh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95106988368-5n0mme92atmhbs96v4fbr18v0boc6r12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hyderabadhouse.hh",
+            "certificate_hash": "4661a80ac0a7d92a7e7ff8ae4fd7ae522a3aad9d"
+          }
+        },
+        {
+          "client_id": "95106988368-hofo4pde04tpabc7tstpr0mntgba3jr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmd0v2pUeyjB1aaDw128qe2vDi9e_mHOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95106988368-hofo4pde04tpabc7tstpr0mntgba3jr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
