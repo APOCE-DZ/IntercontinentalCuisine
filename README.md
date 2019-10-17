@@ -24,9 +24,9 @@ The path for the google-services.json should be HH/app/google-services.json, HHS
 Demo video at https://www.youtube.com/watch?v=POSlJEfLIOo&t=5s
 
 ## Built With
-Android 
-gradle 
-Firebase
+* Android Framework
+* Gradle 
+* Firebase
 
 ## Authors
 James Craft, Kyle Drennen, and Glenn Harper
